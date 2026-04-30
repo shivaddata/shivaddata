@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Привет, меня зовут Дарья
 
-<!--
-**shivaddata/shivaddata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Обо мне
+Я аналитик даннных широкого профиля из Казахстана
 
-Here are some ideas to get you started:
+🔹 Сейчас изучаю: SQL, Python, CLickHouse  
+🔹 Интересуюсь: повышение своей квалификации и работа с новыми проектами
+🔹 Цель: углубить свои знания по всем аспектам работы с датой
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологии и инструменты
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+
+## 📫 Связаться со мной
+
+- LinkedIn: [https://www.linkedin.com/in/daria-shiva?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+- Telegram: [@shiva_daria]
+- Email: [shivadaria05@gmail.com]
+
+## ✨ Дополнительно (по желанию)
+
+- 📚 Сейчас изучаю: [ad hoc]  
+- 🌍 Языки: [Русский родной, Английский B2]  
+- ⚡ Факт: [что-то живое про тебя]
