@@ -19,7 +19,7 @@
 
 <h2>📫 Связаться со мной</h2>
 <ul>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/daria-shiva">Профиль</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/daria-shiva">Daria Shiva</a></li>
   <li>Telegram: <a href="https://t.me/shiva_daria">@shiva_daria</a></li>
   <li>Email: <a href="mailto:shivadaria05@gmail.com">shivadaria05@gmail.com</a></li>
 </ul>
@@ -28,5 +28,5 @@
 <ul>
   <li>📚 Сейчас изучаю: ad hoc</li>
   <li>🌍 Языки: Русский (родной), Английский (B2)</li>
-  <li>⚡ Факт: [добавь что-то про себя]</li>
+  <li>⚡ Факт: Имею опыт работы с CRM системами и несколько лет в маркетиноговом анализе </li>
 </ul>
