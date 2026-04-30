@@ -1,25 +1,32 @@
-# 👋 Привет, меня зовут Дарья
+<h1>👋 Привет, меня зовут Дарья</h1>
 
-## 👩‍💻 Обо мне
-Я аналитик даннных широкого профиля из Казахстана
+<h2>👩‍💻 Обо мне</h2>
+<p>
+Я аналитик данных широкого профиля из Казахстана
+</p>
 
-🔹 Сейчас изучаю: SQL, Python, CLickHouse  
-🔹 Интересуюсь: повышение своей квалификации и работа с новыми проектами
-🔹 Цель: углубить свои знания по всем аспектам работы с датой
+<ul>
+  <li>🔹 Сейчас изучаю: SQL, Python, ClickHouse</li>
+  <li>🔹 Интересуюсь: повышение своей квалификации и работа с новыми проектами</li>
+  <li>🔹 Цель: углубить свои знания по всем аспектам работы с данными</li>
+</ul>
 
-## 🛠️ Технологии и инструменты
+<h2>🛠️ Технологии и инструменты</h2>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+<h2>📫 Связаться со мной</h2>
+<ul>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/daria-shiva">Профиль</a></li>
+  <li>Telegram: <a href="https://t.me/shiva_daria">@shiva_daria</a></li>
+  <li>Email: <a href="mailto:shivadaria05@gmail.com">shivadaria05@gmail.com</a></li>
+</ul>
 
-## 📫 Связаться со мной
-
-- LinkedIn: [https://www.linkedin.com/in/daria-shiva?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
-- Telegram: [@shiva_daria]
-- Email: [shivadaria05@gmail.com]
-
-## ✨ Дополнительно (по желанию)
-
-- 📚 Сейчас изучаю: [ad hoc]  
-- 🌍 Языки: [Русский родной, Английский B2]  
-- ⚡ Факт: [что-то живое про тебя]
+<h2>✨ Дополнительно</h2>
+<ul>
+  <li>📚 Сейчас изучаю: ad hoc</li>
+  <li>🌍 Языки: Русский (родной), Английский (B2)</li>
+  <li>⚡ Факт: [добавь что-то про себя]</li>
+</ul>
