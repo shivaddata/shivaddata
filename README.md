@@ -34,3 +34,8 @@
 <ul>
   <li>🌍 Языки: Русский (родной), Английский (B2)</li>
 </ul>
+
+<h2>✍️ Кейсы, пет-проекты</h2>
+<ul>
+  <li>https://github.com/shivaddata/sql-real-estate-analysis.git</li>
+</ul>
