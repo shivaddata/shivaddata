@@ -1,14 +1,14 @@
-<h1>👋 Привет, меня зовут Дарья</h1>
+<h1>👋 Всем привет, меня зовут Дарья</h1>
 
 <h2>👩‍💻 Обо мне</h2>
 <p>
-Я аналитик данных широкого профиля из Казахстана
+Я аналитик данных широкого профиля из Казахстана. Имею 2 года опыта в Маркетинговом анализе и анализе трифика в Meta ADS (Facebook, Instagram). Год опыта работы с CRM системами, обработка обратной связи от клиентов, поиск узких мест. Ведение проектов с доходностью от $30,000 и последующая презентация результатов.
 </p>
 
 <ul>
-  <li>🔹 Сейчас изучаю: SQL, Python, ClickHouse, DataLens, PowerBI, Tableau, R(SAS) и др.</li>
-  <li>🔹 Интересуюсь: повышение своей квалификации и работа с новыми проектами</li>
-  <li>🔹 Цель: углубить свои знания по всем аспектам работы с данными</li>
+  <li>🔹 Сейчас изучаю: Python, ClickHouse, PowerBI, Tableau, R(SAS) и др.</li>
+  <li>🔹 Интересует: интересные проекты, карьерный рост, повышение квалификации</li>
+  <li>🔹 Цель: углубиться в работу с данными, получить больше релевантного опыта</li>
 </ul>
 
 <h2>🛠️ Навыки и инструменты</h2>
@@ -18,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40"/>
     <li> SQL: DQL, CTE запросы,EDA анализ, Ad-hoc анализ и запросы, Оконные функции, Условная логика, Агрегация данных
     <li> Метрики: ROI, ROMI, LTV, RETENTION, CPA, CPC, CTR, когортный анализ, анализ чувствительности и др.
 </p>
