@@ -6,15 +6,17 @@
 </p>
 
 <ul>
-  <li>🔹 Сейчас изучаю: SQL, Python, ClickHouse</li>
+  <li>🔹 Сейчас изучаю: SQL, Python, ClickHouse, DataLens, PowerBI, Tableau, R(SAS) и др.</li>
   <li>🔹 Интересуюсь: повышение своей квалификации и работа с новыми проектами</li>
   <li>🔹 Цель: углубить свои знания по всем аспектам работы с данными</li>
 </ul>
 
-<h2>🛠️ Технологии и инструменты</h2>
+<h2>🛠️ Навыки и инструменты</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <li> SQL: DQL, CTE запросы,EDA анализ, Ad-hoc анализ и запросы, Оконные функции, Условная логика, Агрегация данных
+  <li> Метрики: ROI, ROMI, LTV, RETENTION, CPA, CPC, CTR, когортный анализ, анализ чувствительности и др.
 </p>
 
 <h2>📫 Связаться со мной</h2>
