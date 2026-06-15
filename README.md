@@ -18,8 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <li> SQL: DQL, CTE запросы,EDA анализ, Ad-hoc анализ и запросы, Оконные функции, Условная логика, Агрегация данных
-  <li> Метрики: ROI, ROMI, LTV, RETENTION, CPA, CPC, CTR, когортный анализ, анализ чувствительности и др.
+    <li> SQL: DQL, CTE запросы,EDA анализ, Ad-hoc анализ и запросы, Оконные функции, Условная логика, Агрегация данных
+    <li> Метрики: ROI, ROMI, LTV, RETENTION, CPA, CPC, CTR, когортный анализ, анализ чувствительности и др.
 </p>
 
 <h2>📫 Связаться со мной</h2>
